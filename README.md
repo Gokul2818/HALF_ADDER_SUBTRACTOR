@@ -1,6 +1,6 @@
-## EXP3:HALF_ADDER_SUBTRACTOR
-## Name: Rahul V
-## Register No:212223040163
+## EXP 3 : HALF_ADDER_SUBTRACTOR
+## Name : GOKUL S
+## Register No : 212224240045
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -74,7 +74,7 @@ endmodule
 ```
 exp32
 ```
- module exp32(a,b,diff,borrow);
+module exp32(a,b,diff,borrow);
 input a,b;
 output diff,borrow;
 assign diff=(a^b);
